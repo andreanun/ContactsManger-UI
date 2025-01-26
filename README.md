@@ -17,20 +17,19 @@ MVP Features:
 ## Screenshot
 
 ![Home Screen](src/assets/screenshot1.png)
+
 ![Update Contact](src/assets/edit_messi.png)
+
 ![Toast Notification](src/assets/updated_messi.png)
+
 ![Toast Notification](src/assets/lebron_contact.png)
 
 **Future Plans:**
 
-- Work on Auth
+- Work on UI...
 
 - Implement OAuth Integration to seamlessly track contacts across devices and services
-
-- Add more employee api endpoints
 
 - Unit testing
 
 - Dockerize
-
-- Incorporate Spring Security, adding roles, privileges, and authorization
