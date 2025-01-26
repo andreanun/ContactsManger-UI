@@ -5,33 +5,32 @@ I built a webapp where users can manage their contacts :)
 **Stack:** Spring Web, Spring Data JPA, PostgreSQL, React, JavaScript, BootStrap, Postman, and Toast
 
 MVP Features:
-* Add a new contact
-* Add media for each contact
-* Get contact
-* Update contact info
-* Delete contact by id
-* Pagination
-* Toast Notifications
+
+- Add a new contact
+- Add media for each contact
+- Get contact
+- Update contact info
+- Delete contact by id
+- Pagination
+- Toast Notifications
 
 ## Screenshot
+
 ![Home Screen](src/assets/screenshot1.png)
-![Update Contact](src/assets/screenshot2.png)
-![Toast Notification](src/assets/screenshot3.png)
+![Update Contact](src/assets/edit_messi.png)
+![Toast Notification](src/assets/updated_messi.png)
+![Toast Notification](src/assets/lebron_contact.png)
 
 **Future Plans:**
 
-* Work on Auth
+- Work on Auth
 
-* Implement OAuth Integration to seamlessly track contacts across devices and services
+- Implement OAuth Integration to seamlessly track contacts across devices and services
 
-* Add more employee api endpoints
+- Add more employee api endpoints
 
-* Unit testing
+- Unit testing
 
-* Dockerize 
+- Dockerize
 
-* Incorporate Spring Security, adding roles, privileges, and authorization
-
-
-
-
+- Incorporate Spring Security, adding roles, privileges, and authorization
